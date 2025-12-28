@@ -1,0 +1,10 @@
+# DeepSeek源码生成器依赖包
+# 基本依赖
+requests>=2.28.0
+python-dotenv>=0.21.0
+
+# 可选增强功能（如果要添加更多功能可以安装）
+# tqdm>=4.65.0
+# colorama>=0.4.6
+# pygments>=2.15.0
+# rich>=13.4.2
